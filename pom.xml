@@ -17,6 +17,7 @@
 		<module>event</module>
 		<module>starter</module>
 		<module>init</module>
+		<module>transaction</module>
 	</modules>
 
 	<properties>
