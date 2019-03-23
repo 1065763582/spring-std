@@ -17,7 +17,11 @@
 		<module>event</module>
 		<module>starter</module>
 		<module>init</module>
-		<module>transaction</module>
+		<module>mybatis</module>
+		<module>message</module>
+		<module>async</module>
+		<module>banner</module>
+		<module>scheduled</module>
 	</modules>
 
 	<properties>
