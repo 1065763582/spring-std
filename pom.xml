@@ -22,6 +22,7 @@
 		<module>async</module>
 		<module>banner</module>
 		<module>scheduled</module>
+		<module>transaction</module>
 	</modules>
 
 	<properties>
